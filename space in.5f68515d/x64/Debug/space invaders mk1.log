@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\Asus Zephyrus\source\repos\space invaders mk1\Source.cpp(165,22): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  space invaders mk1.vcxproj -> C:\Users\Asus Zephyrus\source\repos\space invaders mk1\x64\Debug\space invaders mk1.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
